@@ -1,7 +1,7 @@
 # Clustering on Wine Dataset
 
-Author: **Preet Chaudhary**  
-Roll Number: **102203748**
+Author: **Kamya Mehra**  
+Roll Number: **102213026**
 
 ## Project Overview
 
